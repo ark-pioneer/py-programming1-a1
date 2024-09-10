@@ -1,0 +1,3 @@
+pizza, 10.5
+lemonade, 2.5
+cookie, 3
